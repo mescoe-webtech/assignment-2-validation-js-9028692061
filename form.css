@@ -1,0 +1,46 @@
+
+
+body
+{
+    align-items: center;
+    background-color: lemonchiffon;
+}
+.f1
+{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+.raw
+{
+    margin: 0;
+    font-size: 20px;
+}
+
+label
+{
+    font-size: 15px;
+    margin: 10px;
+}
+
+input[type=text]
+{
+    width: 20%;
+    margin: 8px 0;
+    padding: 7px 10px;
+    cursor: pointer;
+    margin-left: 40px;
+    display: inline-block;
+}
+
+.a1,.a2,.a3,.a4
+{
+    align-self: center;
+    padding: 10px;
+}
+
+.w1
+{
+    margin-left: 40px;
+}
